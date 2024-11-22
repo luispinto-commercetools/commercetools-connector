@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 8080;
 
 // Listen the application
 const server = app.listen(PORT, () => {
-  logger.info(`⚡️ fulfillmenttools event application listening on port ${PORT}`);
+  logger.info(`⚡️√ fulfillmenttools event application listening on port ${PORT}`);
 });
 
 export default server;

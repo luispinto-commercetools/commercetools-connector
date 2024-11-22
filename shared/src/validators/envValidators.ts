@@ -9,7 +9,7 @@ const envValidators = [
     {
       code: 'InvalidClientId',
       message: 'Client id should be 24 characters.',
-      referencedBy: 'environmentVariables',
+      referencedBy: 'environmentVariables√',
     },
     { min: 24, max: 24 }
   ),
